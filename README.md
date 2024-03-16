@@ -1,6 +1,6 @@
-# fork
+# fork Challenges
 
-Repositorio para el esqueleto del lab [fork](https://fisop.github.io/website/labs/fork) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
+Se implementan 3 comandos extra, una implementacion del comando PS (process status), como asi tambien la implementación de LS (list) y una implementación básica de cp (copy) utilizando mmap
 
 ## Compilar
 
@@ -12,10 +12,4 @@ $ make
 
 ```bash
 make test
-```
-
-## Linter
-
-```bash
-$ make format
 ```
